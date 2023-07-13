@@ -21,13 +21,22 @@ If you're happy, you enjoy your work and life more, don't you? :wink:
 
 # ❤️ I Love to Share and Work
 
-* :paintbrush:  I **blog weekly** about PHP and cool coding shortcuts at [tomasvotruba.com](https://tomasvotruba.com)
-* :rocket: I work on [Rector](http://github.com/rectorphp/rector) to help you forget about technical debt and upgrade from PHP 5.6 to PHP 8.1 in a day :muscle:
+* :paintbrush:  I am currently studying at [**Hefei University of Technology**](https://www.hfut.edu.cn/), which is a great university. Recently, I have been preparing to pursue a master's degree without taking the exam. My research interests are **distributed computing and computer architecture**.:book:
+* :rocket: I am currently writing some amateur course experiments and open source projects, and more interesting projects can be found on [**my GitHub repo**](https://github.com/wxliu07?tab=repositories). :muscle:
 * :book: I wrote a book about Rector - [The Power of Automated Refactoring](https://leanpub.com/rector-the-power-of-automated-refactoring) together with my childhood hero
 * :family: I believe in personal sharing of knowledge, so I made [friendsofphp.org](https://friendsofphp.org) to cover all World PHP meetups next month
 * ❤️ Do you **enjoy tasty fruits** of my work? Support me at [Github Sponsors](https://github.com/sponsors/TomasVotruba) 
 * :bird:  I **tweet** about ideas worth learning at [@votrubaT](https://twitter.com/votrubat)
 * :hammer: Currently, I help a couple of projects ~10 hours/week to make their **code productive, a joy to use, and scale in quality**.
+
+
+- 🔭 I’m currently writing some amateur [open source projects](https://github.com/Charmve?tab=repositories), at [@Maiwei.ai](https://github.com/MaiweiAI) and [@UFund](https://github.com/UFund-Me/) by myself. A closed-loop online studying open-source repo is public at [<i><b>@computer-vision-in-action</b></i>](https://github.com/Charmve/computer-vision-in-action) <a href="https://charmve.github.io/computer-vision-in-action"><sup><i><b>Hot</b></i></sup></a>, and more interesting project can be found at [My GitHub repos](https://github.com/Charmve?tab=repositories).
+- 🌱 I’m currently working at Momenta.ai, an <b>autonomous driving</b> company. Before that, I was employed at Future Security Labs of Qihoo 360 as a Research SDE. My research interests lie at <b>Machine Learning</b> and <b>Computer Vision</b>. ([#2](https://github.com/Charmve/Charmve/issues/2))
+- 🤔 Only two things make me moved. 
+  1. To build a cross-platform [<i>VTuber</i>](https://github.com/DeepVTuber) in meta world, which called [未麻 MIMA](https://github.com/DeepVTuber/MIMA). 
+  2. <i>Bring Autonomous Driving into Real Life</i>. To solve the long tail problem and to optimize mass production performance is the goal.
+- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
+- 💬 Be free to ask me about anything [here](https://github.com/Charmve/Charmve/issues).
 
 
 <img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,7 +68,7 @@ If you're happy, you enjoy your work and life more, don't you? :wink:
 <br>
 
 # 🖥️ Open-Source Projects &emsp; 
-> All open source projects are [here](https://github.com/wxliu07?tab=repositories).
+> All open-source projects are [here](https://github.com/wxliu07?tab=repositories).
 > If you like my project, you might as well click a star. :star:
 <table align="center" style="table-layout: auto; width: 100%;">
     <tr>
@@ -68,14 +77,13 @@ If you're happy, you enjoy your work and life more, don't you? :wink:
                 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                 <p align="center">
-                    <a href="https://github.com/Charmve/AR-DAO"><img alt="ManDAO" src="https://user-images.githubusercontent.com/29084184/193869235-4b882df0-09f9-47a6-b405-c361f97b0360.png" width="320" height="100%" title="ManDAO"></a>
+                    <a href=""><img alt="ManDAO" src="https://user-images.githubusercontent.com/29084184/193869235-4b882df0-09f9-47a6-b405-c361f97b0360.png" width="320" height="100%" title="ManDAO"></a>
                 </p>
-                <p>漫山岛 ManDAO</p>
                 <blockquote>
                 <p>漫，既是一种生活方式，更是一种生活态度！</p>
                 </blockquote>
                 <p align="right">
-                Code with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> &amp; <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> &nbsp;&nbsp; <a href="https://github.com/Charmve">@Charmve</a> 2017~2023 &nbsp;
+                <a href="https://github.com/wxliu07">@wxliu07</a>  &nbsp;
                 </p>
             </div>
         </td>
