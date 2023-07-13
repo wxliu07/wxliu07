@@ -2,7 +2,7 @@
 
 Welcome to my page!
 <br>
-l'm WenxuLiu, currently living in Xuancheng, China.
+**l'm WenxuLiu, currently living in Xuancheng, China.**
 <br>
 I love connecting with different people so if you want to say "hi" , I'll be happy to meet you more!
 
@@ -23,20 +23,8 @@ If you're happy, you enjoy your work and life more, don't you? :wink:
 
 * :paintbrush:  I am currently studying at [**Hefei University of Technology**](https://www.hfut.edu.cn/), which is a great university. Recently, I have been preparing to pursue a master's degree without taking the exam. My research interests are **distributed computing and computer architecture**.:book:
 * :rocket: I am currently writing some amateur course experiments and open source projects, and more interesting projects can be found on [**my GitHub repo**](https://github.com/wxliu07?tab=repositories). :muscle:
-* :book: I wrote a book about Rector - [The Power of Automated Refactoring](https://leanpub.com/rector-the-power-of-automated-refactoring) together with my childhood hero
-* :family: I believe in personal sharing of knowledge, so I made [friendsofphp.org](https://friendsofphp.org) to cover all World PHP meetups next month
-* ❤️ Do you **enjoy tasty fruits** of my work? Support me at [Github Sponsors](https://github.com/sponsors/TomasVotruba) 
-* :bird:  I **tweet** about ideas worth learning at [@votrubaT](https://twitter.com/votrubat)
-* :hammer: Currently, I help a couple of projects ~10 hours/week to make their **code productive, a joy to use, and scale in quality**.
-
-
-- 🔭 I’m currently writing some amateur [open source projects](https://github.com/Charmve?tab=repositories), at [@Maiwei.ai](https://github.com/MaiweiAI) and [@UFund](https://github.com/UFund-Me/) by myself. A closed-loop online studying open-source repo is public at [<i><b>@computer-vision-in-action</b></i>](https://github.com/Charmve/computer-vision-in-action) <a href="https://charmve.github.io/computer-vision-in-action"><sup><i><b>Hot</b></i></sup></a>, and more interesting project can be found at [My GitHub repos](https://github.com/Charmve?tab=repositories).
-- 🌱 I’m currently working at Momenta.ai, an <b>autonomous driving</b> company. Before that, I was employed at Future Security Labs of Qihoo 360 as a Research SDE. My research interests lie at <b>Machine Learning</b> and <b>Computer Vision</b>. ([#2](https://github.com/Charmve/Charmve/issues/2))
-- 🤔 Only two things make me moved. 
-  1. To build a cross-platform [<i>VTuber</i>](https://github.com/DeepVTuber) in meta world, which called [未麻 MIMA](https://github.com/DeepVTuber/MIMA). 
-  2. <i>Bring Autonomous Driving into Real Life</i>. To solve the long tail problem and to optimize mass production performance is the goal.
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
-- 💬 Be free to ask me about anything [here](https://github.com/Charmve/Charmve/issues).
+* :❤️ I like eating 🍉,  playing 🏓, sleeping in 🛌 and 📺 [Bilibili](<https://www.bilibili.com>).
+* :💬 Be free to ask me about anything [here](https://github.com/wxliu07/wxliu07/issues).
 
 
 <img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
