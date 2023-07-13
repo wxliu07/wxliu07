@@ -22,7 +22,7 @@ If you're happy, you enjoy your work and life more, don't you? :wink:
 ## ❤️ I Love to Share and Work
 
 * :paintbrush:  I am currently studying at [**Hefei University of Technology**](https://www.hfut.edu.cn/), which is a great university. Recently, I have been preparing to pursue a master's degree without taking the exam. My research interests are **distributed computing and computer architecture**.:book:
-* :rocket: I am currently writing some amateur course experiments and open source projects, and more interesting projects can be found on [**my GitHub repo**](https://github.com/wxliu07?tab=repositories). :muscle:
+* :rocket: I am currently writing some amateur course experiments and open source projects, and more interesting projects can be found on [**My GitHub Repo**](https://github.com/wxliu07?tab=repositories). :muscle:
 * :❤️ I like eating 🍉,  playing 🏓, sleeping in 🛌 and 📺 [Bilibili](<https://www.bilibili.com>).
 * :💬 Be free to ask me about anything [here](https://github.com/wxliu07/wxliu07/issues).
 
