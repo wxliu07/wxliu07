@@ -1,4 +1,4 @@
-# :running:  Hi, Nice to see you! 
+## :running:  Hi, Nice to see you! 
 
 Welcome to my page!
 <br>
@@ -14,12 +14,12 @@ I love connecting with different people so if you want to say "hi" , I'll be hap
 
 <br>
 
-My biggest passion is **to innovate in the area of "impossible" and help developers to be happier** at their daily work. 
+My biggest passion is **to innovate in the area of "impossible" and help people to be happier** at their daily work. 
 
 If you're happy, you enjoy your work and life more, don't you? :wink:
 <br>
 
-# ❤️ I Love to Share and Work
+## ❤️ I Love to Share and Work
 
 * :paintbrush:  I am currently studying at [**Hefei University of Technology**](https://www.hfut.edu.cn/), which is a great university. Recently, I have been preparing to pursue a master's degree without taking the exam. My research interests are **distributed computing and computer architecture**.:book:
 * :rocket: I am currently writing some amateur course experiments and open source projects, and more interesting projects can be found on [**my GitHub repo**](https://github.com/wxliu07?tab=repositories). :muscle:
@@ -29,7 +29,7 @@ If you're happy, you enjoy your work and life more, don't you? :wink:
 
 <img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
-**Languages and Frameworks**
+#### **Languages and Frameworks**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
@@ -42,7 +42,7 @@ If you're happy, you enjoy your work and life more, don't you? :wink:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
 
 
-**Tools and Environments**
+#### **Tools and Environments**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
@@ -55,7 +55,7 @@ If you're happy, you enjoy your work and life more, don't you? :wink:
 <br>
 <br>
 
-# 🖥️ Open-Source Projects &emsp; 
+## 🖥️ Open-Source Projects &emsp; 
 > All open-source projects are [here](https://github.com/wxliu07?tab=repositories).
 > If you like my project, you might as well click a star. :star:
 <table align="center" style="table-layout: auto; width: 100%;">
